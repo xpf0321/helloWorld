@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: api-gateway
+server:
+  port: 9977
+zuul:
+  routes:
+    api-login: /api-login/**
+    api-login-serviceId: ms-login
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:9977/eureka

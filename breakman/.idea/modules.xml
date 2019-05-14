@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-base-common/cloud-base-common.iml" filepath="$PROJECT_DIR$/cloud-base-common/cloud-base-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-base-framework/cloud-base-framework.iml" filepath="$PROJECT_DIR$/cloud-base-framework/cloud-base-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-base-framework/cloud-config-server/cloud-config-server.iml" filepath="$PROJECT_DIR$/cloud-base-framework/cloud-config-server/cloud-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-base-framework/cloud-eureka/cloud-eureka.iml" filepath="$PROJECT_DIR$/cloud-base-framework/cloud-eureka/cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-ms-object/cloud-ms-object.iml" filepath="$PROJECT_DIR$/cloud-ms-object/cloud-ms-object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-base-common/cloud-utils.iml" filepath="$PROJECT_DIR$/cloud-base-common/cloud-utils.iml" />
+    </modules>
+  </component>
+</project>
